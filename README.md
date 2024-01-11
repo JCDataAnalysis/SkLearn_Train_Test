@@ -1,2 +1,13 @@
-# SkLearn_Train_Test
-Tasca M5 T02
+# Sprint 5. Introducció al Test d'Hipòtesis i al Machine Learning
+
+## Tasca M5 T02
+
+### Exercici 1
+Parteix el conjunt de dades adjunt en train i test. Estudia els dos conjunts per separat, a nivell descriptiu.
+També adjunt trobaràs una descripció de les diferents variables del dataset.
+
+### Exercici 2
+Aplica algun procés de transformació (estandarditzar les dades numèriques, crear columnes dummies, polinomis...).
+
+### Exercici 3
+Resumeix les noves columnes generades de manera estadística i gràfica.
